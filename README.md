@@ -30,6 +30,7 @@ I enjoy combining strong data foundations with modern AI architectures to solve 
 **Data Science / Machine Learning:** Python | SQL | Scikit-learn | XGBoost | LightGBM | SciPy | SHAP  
 **Deep Learning & Vision:** TensorFlow | Keras | CNNs | Computer Vision Models  
 **Cloud, Backend & Data Analysis:** AWS (RDS, S3) | FastAPI | Streamlit | Pandas | NumPy | Matplotlib | Seaborn | Git
+
 ---
 
 ## 📌 Featured Projects

@@ -29,8 +29,7 @@ I enjoy combining strong data foundations with modern AI architectures to solve 
 **AI / LLM / Agentic Systems:** LangChain | Vector DBs (FAISS) | RAG Pipelines | Semantic Routing | Groq API | Prompt Engineering | Multi-Agent Workflows  
 **Data Science / Machine Learning:** Python | SQL | Scikit-learn | XGBoost | LightGBM | SciPy | SHAP  
 **Deep Learning & Vision:** TensorFlow | Keras | CNNs | Computer Vision Models  
-**Backend & Data Analysis:** FastAPI | Streamlit | Pandas | NumPy | Matplotlib | Seaborn | Git  
-
+**Cloud, Backend & Data Analysis:** AWS (RDS, S3) | FastAPI | Streamlit | Pandas | NumPy | Matplotlib | Seaborn | Git
 ---
 
 ## 📌 Featured Projects
